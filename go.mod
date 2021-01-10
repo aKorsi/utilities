@@ -1,4 +1,4 @@
-module github.com/akorsi/utilities
+module github.com/aKorsi/utilities
 
 go 1.13
 
